@@ -5,11 +5,15 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 ## Overview
 
 ### Screenshot
-##Desktop
+
+## Desktop
 
 ![](./Final_Desktop.png)
-##Mobile
+
+## Mobile
+
 ![](./Final_Mobile.png)
+
 ### Links
 
 - Solution URL: (https://github.com/Affan840/Four-Card-Feature-Section)
