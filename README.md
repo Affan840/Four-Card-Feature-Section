@@ -6,12 +6,12 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 ### Screenshot
 
-![](./Final Desktop.png)
+![](./"Final Desktop.png")
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: (https://github.com/Affan840/Four-Card-Feature-Section)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
